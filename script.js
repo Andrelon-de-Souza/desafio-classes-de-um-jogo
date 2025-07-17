@@ -13,7 +13,7 @@ class Heroi {
         } else if(this.tipoHeroi === "Guerreiro") {
             ataque = "Espada";
         } else if(this.tipoHeroi === "Monge") {
-            ataque = "Artes Marciais";
+            ataque = "Artes marciais";
         } else {
             ataque = "Shuriken";
         }
